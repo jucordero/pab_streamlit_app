@@ -5,7 +5,7 @@ store_names = [
     "Westfield",
     "Battersea",
     "Legoland Windsor",
-    "Briston",
+    "Bristol",
     "Cardiff",
     "Southampton West Quay",
     "Brighton",
