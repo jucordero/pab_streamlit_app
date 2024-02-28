@@ -1,0 +1,13 @@
+name: fof_dashboard
+
+channels:
+  - defaults
+  # - conda-forge
+
+dependencies:
+  - python>=3.9
+  - numpy
+  - pandas
+  - streamlit
+  - openpyxl
+  - pip
